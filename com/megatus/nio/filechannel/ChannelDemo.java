@@ -28,5 +28,6 @@ public class ChannelDemo
 		byteBuffer.clear();
 		fileInputStream.close();
 		fileChannel.close();
+		
 	}
 }
